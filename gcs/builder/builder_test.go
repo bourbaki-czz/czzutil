@@ -8,14 +8,14 @@ package builder_test
 import (
 	"bytes"
 	"encoding/hex"
-	"github.com/bourbaki-czz/classzz/txscript"
+	"github.com/classzz/classzz/txscript"
 	"testing"
 	"time"
 
-	"github.com/bourbaki-czz/classzz/chaincfg/chainhash"
-	"github.com/bourbaki-czz/classzz/wire"
-	"github.com/bourbaki-czz/czzutil/gcs"
-	"github.com/bourbaki-czz/czzutil/gcs/builder"
+	"github.com/classzz/classzz/chaincfg/chainhash"
+	"github.com/classzz/classzz/wire"
+	"github.com/classzz/czzutil/gcs"
+	"github.com/classzz/czzutil/gcs/builder"
 )
 
 var (

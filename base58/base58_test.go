@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/bourbaki-czz/czzutil/base58"
+	"github.com/classzz/czzutil/base58"
 )
 
 var stringTests = []struct {

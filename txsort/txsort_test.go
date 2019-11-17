@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/bourbaki-czz/classzz/wire"
-	"github.com/bourbaki-czz/czzutil/txsort"
+	"github.com/classzz/classzz/wire"
+	"github.com/classzz/czzutil/txsort"
 )
 
 // TestSort ensures the transaction sorting works according to the BIP.

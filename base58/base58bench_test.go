@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/bourbaki-czz/czzutil/base58"
+	"github.com/classzz/czzutil/base58"
 )
 
 func BenchmarkBase58Encode(b *testing.B) {

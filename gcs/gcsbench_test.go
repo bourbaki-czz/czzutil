@@ -10,7 +10,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/bourbaki-czz/czzutil/gcs"
+	"github.com/classzz/czzutil/gcs"
 )
 
 func genRandFilterElements(numElements uint) ([][]byte, error) {

@@ -11,7 +11,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/bourbaki-czz/czzutil/gcs"
+	"github.com/classzz/czzutil/gcs"
 )
 
 var (

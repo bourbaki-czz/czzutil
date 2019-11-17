@@ -7,7 +7,7 @@ package base58_test
 import (
 	"fmt"
 
-	"github.com/bourbaki-czz/czzutil/base58"
+	"github.com/classzz/czzutil/base58"
 )
 
 // This example demonstrates how to decode modified base58 encoded data.

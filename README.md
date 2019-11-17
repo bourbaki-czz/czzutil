@@ -3,7 +3,7 @@ czzutil
 
 [![Build Status](https://travis-ci.org/bourbaki-czz/czzutil.svg?branch=master)](https://travis-ci.org/bourbaki-czz/czzutil)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/bourbaki-czz/czzutil)
+[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/classzz/czzutil)
 
 Package czzutil provides bitcoin cash-specific convenience functions and types.
 A comprehensive suite of tests is provided to ensure proper functionality.  See
@@ -19,7 +19,7 @@ provided.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/bourbaki-czz/czzutil
+$ go get -u github.com/classzz/czzutil
 ```
 
 ## License

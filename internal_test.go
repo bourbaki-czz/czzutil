@@ -12,9 +12,9 @@ interface. The functions are only exported while the tests are being run.
 package czzutil
 
 import (
-	"github.com/bourbaki-czz/classzz/bchec"
-	"github.com/bourbaki-czz/classzz/chaincfg"
-	"github.com/bourbaki-czz/czzutil/base58"
+	"github.com/classzz/classzz/bchec"
+	"github.com/classzz/classzz/chaincfg"
+	"github.com/classzz/czzutil/base58"
 	"golang.org/x/crypto/ripemd160"
 	"strings"
 )

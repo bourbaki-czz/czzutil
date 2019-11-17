@@ -7,9 +7,9 @@ package czzutil_test
 import (
 	"testing"
 
-	"github.com/bourbaki-czz/classzz/chaincfg"
-	"github.com/bourbaki-czz/classzz/czzec"
-	. "github.com/bourbaki-czz/czzutil"
+	"github.com/classzz/classzz/chaincfg"
+	"github.com/classzz/classzz/czzec"
+	. "github.com/classzz/czzutil"
 )
 
 func TestEncodeDecodeWIF(t *testing.T) {

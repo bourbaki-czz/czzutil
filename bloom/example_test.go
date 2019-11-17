@@ -9,9 +9,9 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/bourbaki-czz/classzz/chaincfg/chainhash"
-	"github.com/bourbaki-czz/classzz/wire"
-	"github.com/bourbaki-czz/czzutil/bloom"
+	"github.com/classzz/classzz/chaincfg/chainhash"
+	"github.com/classzz/classzz/wire"
+	"github.com/classzz/czzutil/bloom"
 )
 
 // This example demonstrates how to create a new bloom filter, add a transaction

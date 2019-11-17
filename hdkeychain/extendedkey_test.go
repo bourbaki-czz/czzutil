@@ -16,7 +16,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/bourbaki-czz/classzz/chaincfg"
+	"github.com/classzz/classzz/chaincfg"
 )
 
 // TestBIP0032Vectors tests the vectors provided by [BIP32] to ensure the

@@ -11,8 +11,8 @@ import (
 	"bytes"
 	"sort"
 
-	"github.com/bourbaki-czz/classzz/chaincfg/chainhash"
-	"github.com/bourbaki-czz/classzz/wire"
+	"github.com/classzz/classzz/chaincfg/chainhash"
+	"github.com/classzz/classzz/wire"
 )
 
 // InPlaceSort modifies the passed transaction inputs and outputs to be sorted
