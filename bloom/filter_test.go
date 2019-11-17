@@ -9,10 +9,10 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/classzz/classzz/chaincfg/chainhash"
-	"github.com/classzz/classzz/wire"
-	"github.com/classzz/czzutil"
-	"github.com/classzz/czzutil/bloom"
+	"github.com/bourbaki-czz/classzz/chaincfg/chainhash"
+	"github.com/bourbaki-czz/classzz/wire"
+	"github.com/bourbaki-czz/czzutil"
+	"github.com/bourbaki-czz/czzutil/bloom"
 )
 
 // TestFilterLarge ensures a maximum sized filter can be created.

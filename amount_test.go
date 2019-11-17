@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	. "github.com/classzz/czzutil"
+	. "github.com/bourbaki-czz/czzutil"
 )
 
 func TestAmountCreation(t *testing.T) {

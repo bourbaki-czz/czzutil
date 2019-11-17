@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/classzz/classzz/chaincfg"
-	"github.com/classzz/czzutil"
+	"github.com/bourbaki-czz/classzz/chaincfg"
+	"github.com/bourbaki-czz/czzutil"
 	"golang.org/x/crypto/ripemd160"
 )
 

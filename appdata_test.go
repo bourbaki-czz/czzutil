@@ -12,7 +12,7 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/classzz/czzutil"
+	"github.com/bourbaki-czz/czzutil"
 )
 
 // TestAppDataDir tests the API for AppDataDir to ensure it gives expected

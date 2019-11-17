@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/classzz/czzutil"
+	"github.com/bourbaki-czz/czzutil"
 )
 
 func ExampleAmount() {

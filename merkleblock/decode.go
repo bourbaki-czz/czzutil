@@ -6,9 +6,9 @@
 package merkleblock
 
 import (
-	"github.com/classzz/classzz/blockchain"
-	"github.com/classzz/classzz/chaincfg/chainhash"
-	"github.com/classzz/classzz/wire"
+	"github.com/bourbaki-czz/classzz/blockchain"
+	"github.com/bourbaki-czz/classzz/chaincfg/chainhash"
+	"github.com/bourbaki-czz/classzz/wire"
 )
 
 // MaxTxnCount defines the maximum number of transactions we will process before

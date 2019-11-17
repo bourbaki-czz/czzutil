@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/classzz/czzutil"
+	"github.com/bourbaki-czz/czzutil"
 	//"github.com/davecgh/go-spew/spew"
 )
 

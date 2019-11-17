@@ -8,10 +8,10 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/classzz/classzz/chaincfg"
-	"github.com/classzz/classzz/chaincfg/chainhash"
-	"github.com/classzz/classzz/czzec"
-	"github.com/classzz/czzutil/base58"
+	"github.com/bourbaki-czz/classzz/chaincfg"
+	"github.com/bourbaki-czz/classzz/chaincfg/chainhash"
+	"github.com/bourbaki-czz/classzz/czzec"
+	"github.com/bourbaki-czz/czzutil/base58"
 )
 
 // ErrMalformedPrivateKey describes an error where a WIF-encoded private

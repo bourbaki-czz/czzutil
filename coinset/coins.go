@@ -9,9 +9,9 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/classzz/classzz/chaincfg/chainhash"
-	"github.com/classzz/classzz/wire"
-	"github.com/classzz/czzutil"
+	"github.com/bourbaki-czz/classzz/chaincfg/chainhash"
+	"github.com/bourbaki-czz/classzz/wire"
+	"github.com/bourbaki-czz/czzutil"
 )
 
 // Coin represents a spendable transaction outpoint

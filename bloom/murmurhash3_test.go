@@ -7,7 +7,7 @@ package bloom_test
 import (
 	"testing"
 
-	"github.com/classzz/czzutil/bloom"
+	"github.com/bourbaki-czz/czzutil/bloom"
 )
 
 // TestMurmurHash3 ensure the MurmurHash3 function produces the correct hash

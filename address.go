@@ -9,9 +9,9 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/classzz/classzz/chaincfg"
-	"github.com/classzz/classzz/czzec"
-	"github.com/classzz/czzutil/base58"
+	"github.com/bourbaki-czz/classzz/chaincfg"
+	"github.com/bourbaki-czz/classzz/czzec"
+	"github.com/bourbaki-czz/czzutil/base58"
 	"golang.org/x/crypto/ripemd160"
 )
 

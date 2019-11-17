@@ -10,11 +10,11 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/classzz/classzz/chaincfg/chainhash"
-	"github.com/classzz/classzz/wire"
-	"github.com/classzz/czzutil"
-	"github.com/classzz/czzutil/bloom"
-	"github.com/classzz/czzutil/merkleblock"
+	"github.com/bourbaki-czz/classzz/chaincfg/chainhash"
+	"github.com/bourbaki-czz/classzz/wire"
+	"github.com/bourbaki-czz/czzutil"
+	"github.com/bourbaki-czz/czzutil/bloom"
+	"github.com/bourbaki-czz/czzutil/merkleblock"
 )
 
 // TestMerkleBlock3 tests merkleblock encoding using bloom filter. This test

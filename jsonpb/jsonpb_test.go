@@ -2,7 +2,7 @@ package jsonpb
 
 import (
 	"bytes"
-	pb "github.com/classzz/czzutil/jsonpb/testpb"
+	pb "github.com/bourbaki-czz/czzutil/jsonpb/testpb"
 	"testing"
 )
 
